@@ -29,8 +29,8 @@ A simple graphical user interface (GUI) tool for encrypting and decrypting files
 You can install the required libraries using pip:
 
 ```bash
-pip install cryptography
-
+  pip install cryptography
+```
 ## License
 
 This project is licensed under the MIT License.
